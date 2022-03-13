@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianValdes/react-hooks-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianValdes/react-hooks-from-scratch/issues"
+  },
+  "homepage": "https://github.com/AdrianValdes/react-hooks-from-scratch#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
